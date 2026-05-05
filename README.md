@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Etang 👋
 
-<!--
-**Etang-OJ/Etang-OJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on commercial analytics, optimisation, and applied machine learning.
 
-Here are some ideas to get you started:
+## 🔥 What I do
+- Analyse business performance and identify key drivers
+- Build predictive models to support decision-making
+- Develop dashboards for real-world impact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- Hotel Booking Cancellation Prediction (Revenue optimisation)
+- Real Estate Price & Demand Prediction (ML + API deployment)
+- Freelance Gig Analytics Dashboard (Business insights)
+
+## 📫 Contact
+- Email: eyumeneh.etang@gmail.com
+- LinkedIn: www.linkedin.com/in/etang-ojong
