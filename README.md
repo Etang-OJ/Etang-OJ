@@ -50,9 +50,8 @@ Business intelligence dashboard analysing gig economy performance
 * Optimisation problems
 * Commercial decision-making using data
 
-  ## 🛠️ Tools & Technologies
-Python | SQL | Power BI | Tableau | scikit-learn | FastAPI | Docker
-
+ ## 🛠️ Tools & Technologies
+Python | SQL | Power BI | Tableau | Excel (Power Query, Pivot Tables) | scikit-learn | FastAPI | Docker
 ---
 
 ## 📫 Contact
