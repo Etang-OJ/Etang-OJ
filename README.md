@@ -29,7 +29,7 @@ End-to-end machine learning system with API deployment
 👉 Predicts property prices and rental demand
 👉 Built using FastAPI, Docker, and deployed for real-world use
 👉 Supports pricing optimisation and marketing decisions
-[View Project](link)
+[View Project](https://github.com/Etang-OJ/Bluestone_RealEstate)
 ---
 
 ### 📈 Freelance Platform Analytics Dashboard
