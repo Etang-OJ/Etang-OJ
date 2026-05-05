@@ -1,6 +1,7 @@
 # Hi, I'm Etang 👋
 
 Data Analyst with a focus on **commercial analytics, optimisation, and applied machine learning**.
+I use data to identify revenue drivers, improve performance, and support real-world decision-making.
 
 ---
 
@@ -9,6 +10,8 @@ Data Analyst with a focus on **commercial analytics, optimisation, and applied m
 * Analyse business performance and identify key drivers
 * Build predictive models to support decision-making
 * Develop dashboards and data tools that influence real-world outcomes
+
+  💡 I focus on turning data into decisions, not just dashboards.
 
 ---
 
@@ -46,6 +49,9 @@ Business intelligence dashboard analysing gig economy performance
 * Experimentation and A/B testing
 * Optimisation problems
 * Commercial decision-making using data
+
+  ## 🛠️ Tools & Technologies
+Python | SQL | Power BI | Tableau | scikit-learn | FastAPI | Docker
 
 ---
 
