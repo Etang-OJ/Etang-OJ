@@ -38,7 +38,7 @@ Business intelligence dashboard analysing gig economy performance
 👉 Identified revenue drivers and high-performing segments
 👉 Highlighted demand-supply gaps across categories
 👉 Provided recommendations for growth and retention
-[View Project](link)
+[View Project](https://github.com/Etang-OJ/FreelanceGig-Analytics-Dashboard-Tableau)
 ---
 
 ## 🧪 Interests
