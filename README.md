@@ -20,7 +20,7 @@ Predicts booking cancellations (~33%) to reduce revenue loss and improve operati
 👉 Identified key drivers like lead time and booking channel
 👉 Built ML models (Random Forest, XGBoost) with strong performance
 👉 Delivered actionable recommendations for pricing and cancellation policies
-
+[View Project](link)
 ---
 
 ### 🧠 Real Estate Price & Demand Prediction (Bluestone)
@@ -29,7 +29,7 @@ End-to-end machine learning system with API deployment
 👉 Predicts property prices and rental demand
 👉 Built using FastAPI, Docker, and deployed for real-world use
 👉 Supports pricing optimisation and marketing decisions
-
+[View Project](link)
 ---
 
 ### 📈 Freelance Platform Analytics Dashboard
@@ -38,7 +38,7 @@ Business intelligence dashboard analysing gig economy performance
 👉 Identified revenue drivers and high-performing segments
 👉 Highlighted demand-supply gaps across categories
 👉 Provided recommendations for growth and retention
-
+[View Project](link)
 ---
 
 ## 🧪 Interests
