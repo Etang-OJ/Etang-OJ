@@ -20,7 +20,7 @@ Predicts booking cancellations (~33%) to reduce revenue loss and improve operati
 👉 Identified key drivers like lead time and booking channel
 👉 Built ML models (Random Forest, XGBoost) with strong performance
 👉 Delivered actionable recommendations for pricing and cancellation policies
-[View Project](link)
+[View Project](https://github.com/Etang-OJ/Hotel-Booking-Cancellation-Prediction)
 ---
 
 ### 🧠 Real Estate Price & Demand Prediction (Bluestone)
